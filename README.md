@@ -1,5 +1,6 @@
 ## Hi there 👋
-![AlenGithub](https://github.com/AK08/AK08/assets/132333843/2691783e-9cdb-4d33-85e9-627b0f4e9448)
+![Alen2](https://github.com/AK08/AK08/assets/132333843/8991356a-9bc6-4c74-83d5-900694b5b2ce)
+
 
 ## 💫 About Me:
 As an ambitious and dedicated MCA student, I am passionate about leveraging the power of data analytics and web development to drive meaningful insights and create exceptional user experiences.<br><br>With a track record of success in both fields, including winning prizes in a hackathon for machine learning project and a UI/UX competition, I bring a unique blend of technical expertise, analytical mindset, and creative flair to the table. I am ready to take on new challenges and contribute to innovative projects.
