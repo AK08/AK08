@@ -1,20 +1,189 @@
-## Hi there 👋
-![Alen2](https://github.com/AK08/AK08/assets/132333843/8991356a-9bc6-4c74-83d5-900694b5b2ce)
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,45:7aa2f7,100:bb9af7&height=210&section=header&text=Alen%20Kottaram&fontSize=56&fontColor=ffffff&fontAlignY=34&desc=I%20build%20and%20ship%20complete%20products&descAlignY=55&descSize=18&animation=fadeIn" alt="Alen Kottaram" />
 
-## 💫 About Me:
-I love to code. Trying to learn the latest technologies and practices.
+<a href="https://www.alenkottaram.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=680&height=50&lines=TypeScript+%2B+Next.js%2C+full+stack;Desktop+apps+with+Tauri+%26+Rust;Games+in+Godot+%E2%9A%A1;Python+%26+machine+learning%2C+before+all+this" alt="What I do" />
+</a>
 
+<br />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alen-kottaram-7b6016194/) 
+<a href="https://www.alenkottaram.com"><img src="https://img.shields.io/badge/Website-alenkottaram.com-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27" alt="Website" /></a>
+<a href="https://www.linkedin.com/in/alen-kottaram-7b6016194/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn" /></a>
+<a href="mailto:alenkottaram@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-BB9AF7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Email" /></a>
 
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AK08&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AK08&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AK08&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://komarev.com/ghpvc/?username=AK08&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile views" />
 
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br />
+
+<img align="right" width="38%" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="" />
+
+## 💫 About Me
+
+I like taking an idea all the way to something people can actually open, click
+and use — database, API, interface, build pipeline, the whole thing.
+
+- 🧑‍💻 These days I live in **TypeScript** — Next.js and React on the front,
+  NestJS and Prisma on the back, Postgres underneath.
+- 🖥️ I build **native desktop apps** with **Tauri + Rust**, so a web UI can ship
+  as a small, fast, offline binary for macOS, Windows and Linux.
+- 🎮 I make **games in Godot** — currently a portrait-mode Android roguelite.
+- 🧠 Before all of that I worked **Python-heavy on machine learning** —
+  TensorFlow, scikit-learn, CNNs on medical imaging, deployed with Streamlit.
+- 🌐 My corner of the internet: **[alenkottaram.com](https://www.alenkottaram.com)**
+
+<br clear="right" />
+
+## 🛠️ Tech Stack
+
+**Working with now**
+
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white" />
+<img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+**Also in the toolbox**
+
+<p>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+</p>
+
+<br />
+
+## ⚡ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Thunder Arena
+
+A portrait-mode **2D arena survival roguelite** for Android. You play a demigod
+son of Zeus: you move, and divine lightning does the killing. Survive five
+minutes, level up, pick 3-of-6 upgrades, run it back.
+
+Built solo in **Godot 4 / GDScript** with **zero third-party assets** — every
+sprite is hand-authored SVG animated in code, and the music loop is
+procedurally generated. Device-tested Android build.
+
+<sub>`Godot 4` · `GDScript` · `Android` · `Original art & audio`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Diagnosify
+
+A **neurological diagnosis platform** that helps medical professionals classify
+**brain tumours, Alzheimer's and Parkinson's** from imaging — deep learning
+models optimised with **Intel® oneAPI** for faster training and inference.
+
+<sub>`Python` · `TensorFlow` · `Intel® oneAPI` · `Streamlit`</sub>
+
+<a href="https://diagnosify-v2.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></a>
+<a href="https://github.com/AK08/Diagnosify"><img src="https://img.shields.io/badge/Code-1a1b27?style=flat-square&logo=github&logoColor=white" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌀 Parkinson's Disease Detector
+
+The **first publicly accessible** Parkinson's screening tool driven by **spiral
+and wave drawings** — you draw, a CNN reads the tremor in the strokes. No lab,
+no bloodwork, just a pen and a camera.
+
+<sub>`Python` · `CNN` · `Computer Vision` · `Streamlit`</sub>
+
+<a href="https://parkinson-disease-detector-x3nlmueob9ekvhz96wc4vh.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></a>
+<a href="https://github.com/AK08/Parkinson-Disease-Detector"><img src="https://img.shields.io/badge/Code-1a1b27?style=flat-square&logo=github&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 alenkottaram.com
+
+My personal site — a creative digital playground rather than a résumé. Warm
+paper background, bold type, layered cards, stickers and doodles, with
+reduced-motion-aware animation throughout.
+
+<sub>`Next.js 16` · `TypeScript` · `Tailwind v4` · `Framer Motion`</sub>
+
+<a href="https://www.alenkottaram.com"><img src="https://img.shields.io/badge/Visit-7AA2F7?style=flat-square&logo=vercel&logoColor=white" /></a>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AK08&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AK08&theme=tokyonight&hide_border=true&include_all_commits=true&layout=compact&langs_count=8" alt="Top languages" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=AK08&theme=tokyonight&hide_border=true" alt="Streak" />
+
+<img src="https://github-trophies.vercel.app/?username=AK08&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AK08&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity graph" />
+
+</div>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AK08/AK08/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AK08/AK08/output/github-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/AK08/AK08/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<br />
+
+<div align="center">
+
+### 💬 Let's build something
+
+Open to interesting problems, side quests and collaborations.
+
+<a href="https://www.alenkottaram.com"><img src="https://img.shields.io/badge/alenkottaram.com-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27" /></a>
+<a href="https://www.linkedin.com/in/alen-kottaram-7b6016194/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,55:7aa2f7,100:1a1b27&height=140&section=footer" alt="" />
+
+</div>
