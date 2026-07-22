@@ -143,19 +143,6 @@ reduced-motion-aware animation throughout.
 
 <br />
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AK08&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AK08&theme=tokyonight&hide_border=true&include_all_commits=true&layout=compact&langs_count=8" alt="Top languages" />
-
-<img height="165" src="https://streak-stats.demolab.com?user=AK08&theme=tokyonight&hide_border=true" alt="Streak" />
-
-<img src="https://github-trophies.vercel.app/?username=AK08&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
-
-</div>
-
 ## 🐍 Contribution Graph
 
 <div align="center">
