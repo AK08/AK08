@@ -9,10 +9,7 @@
 <br />
 
 <a href="https://www.alenkottaram.com"><img src="https://img.shields.io/badge/Website-alenkottaram.com-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27" alt="Website" /></a>
-<a href="https://www.linkedin.com/in/alen-kottaram-7b6016194/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn" /></a>
 <a href="mailto:alenkottaram@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-BB9AF7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Email" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=AK08&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -157,8 +154,6 @@ reduced-motion-aware animation throughout.
 
 <img src="https://github-trophies.vercel.app/?username=AK08&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AK08&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity graph" />
-
 </div>
 
 ## 🐍 Contribution Graph
@@ -182,7 +177,7 @@ reduced-motion-aware animation throughout.
 Open to interesting problems, side quests and collaborations.
 
 <a href="https://www.alenkottaram.com"><img src="https://img.shields.io/badge/alenkottaram.com-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27" /></a>
-<a href="https://www.linkedin.com/in/alen-kottaram-7b6016194/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" /></a>
+<a href="mailto:alenkottaram@gmail.com"><img src="https://img.shields.io/badge/Email-BB9AF7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,55:7aa2f7,100:1a1b27&height=140&section=footer" alt="" />
 
